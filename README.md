@@ -19,9 +19,36 @@ If you find anything here that you think might be useful to you, you are welcome
 
 If you would like me to modify something here for you, I will gladly prepare a project proposal and quote you a fee for doing so.  If you need to ask anything, you can usually find me on the [RedEyed Community Discord Server](https://discord.gg/s6gZZUc67y). 
 
-[`^ Top`](#toc)
+## ❓ [What's Included?]()
 
-## 🚧 [Author / Maintainer](#toc)
+KEY:
+
+- ☑️ = **TODO**
+- ✅ = **DONE**
+
+### ✅ [Legal Documents]()
+
+#### ✅ Website Documents
+
+- ☑️ Terms of Service
+- ☑️ Privacy Policy
+- ☑️ Payments & Refunds Policy
+- ☑️ Support Policy
+- ☑️ Cookie Policy
+
+#### ✅ Contracts & Terms of Trade
+
+- ☑️ Terms of Trade
+- ☑️ Terms & Conditions of Work For Hire
+- ☑️ Service Level Agreements
+- ☑️ Service Management Agreement
+- ☑️ Service Subscription Agreement
+- ☑️ Hardware Provision Agreement
+- ☑️ Cloud Services Terms & Conditions
+- ☑️ Security Services Terms & Conditions
+
+
+## 🚧 [Author / Maintainer]()
 
 <div align="center">
 
@@ -39,9 +66,7 @@ If you would like me to modify something here for you, I will gladly prepare a p
 
 </div>
 
-[`^ Top`](#toc)
-
-## ⚖️ [License](#toc)
+## ⚖️ [License]()
 
 ![MIT](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)
 
@@ -52,8 +77,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-[`^ Top`](#toc)
 
 <div align="center">
 
